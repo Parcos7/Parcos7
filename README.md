@@ -22,8 +22,7 @@
 
 <div style="display: inline_block">
    <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Parcos7&theme=radical&layout=compact"/>
-   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parcos7&theme=radical&layout=compact"/>
-   
+   <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parcos7&theme=radical&layout=compact"/>
 </div>
 
 ##
@@ -34,5 +33,6 @@
 
 <div>
   <a href = "mailto:mpribeiro63@gmail.com"><img width="150px" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://www.linkedin.com/in/mparcos7/" target="_blank"><img width="150px" height="40px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href= "https://www.linkedin.com/in/mparcos7/" target="_blank"><img width="150px" height="40px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     
+  target="_blank"></a>
 </div>
