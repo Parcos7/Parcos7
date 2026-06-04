@@ -27,7 +27,7 @@
 -->
 ##
 
-![Snake animation](https://github.com/vitorpachecoo/vitorpachecoo/blob/output/github-contribution-grid-snake.gif.(https://github.com/vitorpachecoo/vitorpachecoo/blob/output/github-contribution-grid-snake.svg))
+![Snake animation]([https://github.com/vitorpachecoo/vitorpachecoo/blob/output/github-contribution-grid-snake.gif](https://github.com/vitorpachecoo/vitorpachecoo/blob/output/github-contribution-grid-snake.svg))
 
 ##
 
